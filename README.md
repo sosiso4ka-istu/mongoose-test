@@ -2,7 +2,7 @@
 
 
 # Добавление тестовых экземлпяров сущностей
-'node index.js'
+`node index.js`
 ![image](https://github.com/sosiso4ka-istu/mongoose-test/assets/167700280/379ca5dc-7d02-49a1-a5cb-7836e450c30a)
 В бд появилась таблица online-school, в ней появились тестовые экземпляры сущностей.
 2 курса, 6 уроков (3 на каждый курс), 6 дз (3 на каждый урок)
